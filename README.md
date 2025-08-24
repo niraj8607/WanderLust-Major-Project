@@ -1,7 +1,7 @@
-Wanderlust 🏨
+## Wanderlust 🏨
 Wanderlust is a full-stack web application inspired by Airbnb, designed to allow users to discover, book, and review unique places to stay around the world. This project demonstrates a complete CRUD (Create, Read, Update, Delete) application with user authentication, image uploads, and an interactive user interface.
 
-✨ Features
+## ✨ Features
 User Authentication: Secure user sign-up and login functionality using Passport.js. Authenticated users can manage their listings and post reviews.
 
 Browse Listings: A clean, responsive interface to view all available properties.
@@ -16,7 +16,7 @@ Authorization: Users can only edit or delete the listings and reviews they have 
 
 Flash Messages: Interactive flash messages provide feedback to the user after performing actions (e.g., "New Listing Created!", "You are logged out!").
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 Frontend: HTML, CSS, JavaScript, EJS (Embedded JavaScript templates)
 
 Backend: Node.js, Express.js
@@ -29,7 +29,7 @@ Styling: Bootstrap
 
 Utilities: Method-Override, Multer, Express-Session, Connect-Flash, EJS-Mate
 
-🚀 Getting Started
+## 🚀 Getting Started
 Follow these instructions to get a copy of the project up and running on your local machine.
 
 Prerequisites
